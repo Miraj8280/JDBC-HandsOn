@@ -183,7 +183,7 @@ public class HotelReservationSystem {
         }
 
         System.out.println();
-        System.out.println("Thank You For Using Hotel Reservation System!!!");
+        System.out.println("Thank you for using Hotel Reservation System!!!");
     }
     public static void main(String[] args) throws SQLException {
         try {
